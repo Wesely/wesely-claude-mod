@@ -1,0 +1,11 @@
+{
+  "name": "wesely-claude-mod",
+  "owner": { "name": "Wesely" },
+  "plugins": [
+    {
+      "name": "usage",
+      "source": "./usage",
+      "description": "Prompt hint line: remote icon + session name on the left, 5hr / weekly usage on the right"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "usage",
+  "version": "0.2.0",
+  "description": "Prompt hint line: remote icon + session name on the left, 5hr / weekly usage on the right",
+  "author": { "name": "Wesely" },
+  "types": "./types/index.d.ts"
+}
